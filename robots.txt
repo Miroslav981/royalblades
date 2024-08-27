@@ -1,0 +1,3 @@
+Sitemap: https://testrb6.wordpress.com/sitemap.xml
+
+User-agent: *
